@@ -7,10 +7,10 @@
 // 詳細步驟請見 README.md「自行架設教學」
 // ============================================================
 export const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.firebasestorage.app",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyAuZaEhDBVubcoY8gHmY-Gm5HerAhRMHiM",
+    authDomain: "my-wetravel-7cc21.firebaseapp.com",
+    projectId: "my-wetravel-7cc21",
+    storageBucket: "my-wetravel-7cc21.firebasestorage.app",
+    messagingSenderId: "1071831756277",
+    appId: "1:1071831756277:web:014e47c377700d753e84bc"
 };
